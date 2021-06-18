@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>27046812784-p0i062ha1evc3vjsd1sreargon5ludk4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.27046812784-p0i062ha1evc3vjsd1sreargon5ludk4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbVo9sEbKto45y57VQ_pX2qBIRzC6LY5c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>27046812784</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clean.architecture.MainApp.dev</string>
+	<key>PROJECT_ID</key>
+	<string>clean-architecture-ios-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clean-architecture-ios-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:27046812784:ios:c5a77e567d56c1b30fe8b5</string>
+	<key>DATABASE_URL</key>
+	<string>https://clean-architecture-ios-dev.firebaseio.com</string>
+</dict>
+</plist>
